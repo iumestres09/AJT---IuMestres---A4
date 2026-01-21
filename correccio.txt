@@ -1,0 +1,11 @@
+Exercici 1. 1,9/2
+No cal fer tres vegades "import math". Amb un cop és suficient.
+
+Exercici 2. 2/2
+
+Exercici 3. 2/2
+
+Exercici 4. 1,9/2
+Hauries d'afegir el paràmetre N com a entrada d'algunes funcions perquè el codi estigui "bé".
+
+Nota: 9,8/10
